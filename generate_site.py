@@ -917,6 +917,7 @@ def build_html_sitemap_page(all_articles: list[dict]) -> str:
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="pgvlG0f03ZrRZzbgDSXRhr6tsSfseFOhXCN6Yv_j5b8" />
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Site Map — SoilBagCalc Garden Soil, Mulch &amp; Raised Bed Calculator</title>
